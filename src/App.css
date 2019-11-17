@@ -1,0 +1,29 @@
+h1 {
+	margin: 0;
+	padding: 15px;
+}
+
+.App {
+	background-color: #26262b;
+	box-sizing: border-box;
+	min-height: 100vh;
+	padding: 15px;
+	text-align: center;
+	color: white;
+}
+
+.Button {
+	margin: 15px;
+	min-width: 25%;
+	height: 50px;
+	font-size: 1em;
+	background-color: #7289da;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	cursor: pointer;
+}
+
+.Button:hover {
+	box-shadow: 0 3px 5px #484851;
+}
